@@ -25,7 +25,7 @@ define('DB_USER', 'getnailed_usr');
 define('DB_PASSWORD', 'eluwa123');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'mysql.ingenslk.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
