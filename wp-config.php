@@ -19,10 +19,10 @@
 define('DB_NAME', 'getnailed_db');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'getnailed_usr');
 
 /** MySQL database password */
-define('DB_PASSWORD', '1234');
+define('DB_PASSWORD', 'eluwa123');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
