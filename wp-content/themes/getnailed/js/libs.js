@@ -92,7 +92,7 @@ function preloadImages(callback){
 }
 
 function setToDate(){
-	var eventDate = new Date("June 27 2015 00:00:00");
+	var eventDate = new Date("July 04 2015 00:00:00");
 	var today = new Date();
 
     var diff = (eventDate - today);
